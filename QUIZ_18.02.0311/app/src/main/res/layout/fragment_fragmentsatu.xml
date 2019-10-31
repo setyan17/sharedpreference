@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/images"
+    tools:context=".Fragmentsatu">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Nama"
+        android:textSize="50dp"
+        android:fontFamily="sans-serif-black"
+        android:layout_marginTop="250dp"
+        android:layout_marginLeft="125dp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="90dp"
+        android:fontFamily="sans-serif-black"
+        android:layout_marginTop="350dp"
+        android:text="Username"
+        android:textSize="50dp" />
+
+
+
+</FrameLayout>
